@@ -25,4 +25,4 @@ include tag.
   courtesy notices
 - **[Changelog](changelog.md)** — notable changes to the node over time
 
-Questions about this node can be directed to {{ KC8GEF }} [QRZ Database](https://www.qrz.com/db/KC8GEF)
+Questions about this node can be directed to KC8GEF [QRZ Database](https://www.qrz.com/db/KC8GEF).
