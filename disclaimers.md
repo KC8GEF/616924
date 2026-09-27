@@ -4,13 +4,11 @@ title: Disclaimers
 permalink: /disclaimers.html
 ---
 
-*(This page is optional but a natural place for anything you want
-visitors — or net participants — to know before they use this node.
-Delete any section that doesn't apply to you.)*
+
 
 ## Recording, logging, or monitoring
 
-*Audio relayed through node 616924 may be recorded.
+Audio relayed through node 616924 may be recorded.
 
 Amateur radio communications carry no expectation of privacy under FCC Part 97 or federal wiretap law, and this project doesn’t change that — this notice is provided as a courtesy, not because it’s legally required.*
 

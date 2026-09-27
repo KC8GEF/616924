@@ -1,4 +1,4 @@
-# [NODE NUMBER] Node Page — Starter Kit
+# 616924 Node Page — Starter Kit
 
 *Starter Kit version 1.2 (September 19, 2026)*
 

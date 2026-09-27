@@ -1,9 +1,9 @@
 ---
 layout: home
-title: AllStarLink Node [616924]
+title: AllStarLink Node 616924
 ---
 
-## [Optional: a one-line courtesy notice, e.g. "Amateur Radio traffic relayed through node [616924] may be recorded."]
+## Amateur Radio traffic relayed through node 616924 may be recorded.
 
 This page is maintained by {{ KC8GEF }} as the off-node reference for
 AllStarLink node {{ 616924}}. It exists so information about the node —
@@ -25,4 +25,4 @@ include tag.
   courtesy notices
 - **[Changelog](changelog.md)** — notable changes to the node over time
 
-Questions about this node can be directed to {{ KC8GEF }}. *https://www.qrz.com/db/KC8GEF*
+Questions about this node can be directed to {{ KC8GEF }} https://www.qrz.com/db/KC8GEF
